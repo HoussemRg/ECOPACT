@@ -22,16 +22,7 @@
     <li><strong>CI/CD:</strong> Azure DevOps, ArgoCD</li>
 </ul>
 
-<h2>📸 Screenshots</h2>
 
-<p><strong>1. Dashboard</strong></p>
-<p><img src="https://example.com/screenshot-dashboard.png" alt="Dashboard"></p>
-
-<p><strong>2. Pollution Trends</strong></p>
-<p><img src="https://example.com/screenshot-trends.png" alt="Pollution Trends"></p>
-
-<p><strong>3. Alert Notifications</strong></p>
-<p><img src="https://example.com/screenshot-alerts.png" alt="Alert Notifications"></p>
 
 <h2>🚀 Getting Started</h2>
 
@@ -87,6 +78,6 @@ cd ecopact
 
 <p>Watch a comprehensive video demonstration of <strong>Ecopact</strong> to understand its features, functionality, and user interface.</p>
 
-<p><a href="https://example.com/your-video-link"><img src="https://example.com/video-thumbnail.png" alt="Ecopact Project Demo" width="600px"></a></p>
+<p><a href="demo.mp4" download><img src="https://example.com/video-thumbnail.png" alt="Ecopact Project Demo" width="600px"></a></p>
 
 <p>Click the image above or <a href="https://example.com/your-video-link">here</a> to watch the video.</p>
