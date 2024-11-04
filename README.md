@@ -24,6 +24,10 @@
     <li><strong>Prediction Service</strong>: Uses machine learning models to predict future pollutant levels based on historical data, supporting proactive water management.</li>
     <li><strong>Alerts Service</strong>: Sends notifications and alerts to users when pollutant levels exceed safe thresholds, enabling timely intervention.</li>
 </ul>
+<h3>DevOps Architecture</h3>
+<p>The DevOps architecture leverages continuous integration and continuous deployment (CI/CD) pipelines to automate the building, testing, and deployment of each microservice. This setup, built with Azure DevOps and ArgoCD, ensures rapid and reliable delivery of updates and new features.</p>
+<p><img src="s6.png" alt="DevOps Architecture" width="600px"></p>
+<p>The above diagram represents the flow of code from development to production environments. Each microservice undergoes automated testing and containerization, followed by deployment to Kubernetes clusters managed via Azure Kubernetes Service (AKS).</p>
 
 <h2>📸 Screenshots</h2>
 
@@ -71,7 +75,7 @@
 <ol>
     <li><strong>Clone the repository:</strong></li>
     <pre><code>git clone https://github.com/HoussemRg/ECOPACT.git
-cd ecopact
+
     </code></pre>
 
    <li><strong>Set up MongoDB Database:</strong> Ensure MongoDB is running locally or use a cloud database service.</li>
