@@ -31,23 +31,23 @@
 
 <h3>1. Home Page</h3>
 <p>The home page provides an overview of the application and allows users to navigate to various sections, such as monitoring, statistics, and alerts.</p>
-<p><img src="screenshots/s1.png" alt="Home Page" width="600px"></p>
+<p><img src="s1.png" alt="Home Page" width="600px"></p>
 
 <h3>2. Main Dashboard</h3>
 <p>The main dashboard displays a comprehensive view of real-time water quality data, including pollutant levels and overall environmental health, with insights on trends over time.</p>
-<p><img src="screenshots/s2.png" alt="Main Dashboard" width="600px"></p>
+<p><img src="s2.png" alt="Main Dashboard" width="600px"></p>
 
 <h3>3. Specific Item Dashboard - Monthly and Yearly Stats</h3>
 <p>This dashboard offers detailed statistics for specific pollutants, such as phosphorus or nitrate, with monthly and yearly breakdowns. Users can analyze changes over time to make informed decisions on environmental interventions.</p>
-<p><img src="screenshots/s3.png" alt="Specific Item Dashboard" width="600px"></p>
+<p><img src="s3.png" alt="Specific Item Dashboard" width="600px"></p>
 
 <h3>4. Alerts and Notifications</h3>
 <p>The alerts and notifications panel shows real-time alerts for any critical pollutant levels, allowing prompt action. Users can set thresholds and receive notifications when specific conditions are met.</p>
-<p><img src="screenshots/s4.png" alt="Alerts and Notifications" width="600px"></p>
+<p><img src="s4.png" alt="Alerts and Notifications" width="600px"></p>
 
 <h3>5. CI/CD Pipeline for Each Microservice</h3>
 <p>The CI/CD pipeline screenshot shows the automated deployment and testing setup for each microservice. This pipeline ensures efficient updates and scaling with Azure DevOps and ArgoCD, reducing manual deployment efforts and promoting a smooth development workflow.</p>
-<p><img src="screenshots/s5.png" alt="CI/CD Pipeline" width="600px"></p>
+<p><img src="s5.png" alt="CI/CD Pipeline" width="600px"></p>
 
 <h2>🛠️ Technology Stack</h2>
 <ul>
