@@ -78,6 +78,12 @@ cd ecopact
 
 <p>Watch a comprehensive video demonstration of <strong>Ecopact</strong> to understand its features, functionality, and user interface.</p>
 
-<p><a href="./demo.mp4" download><img src="https://example.com/video-thumbnail.png" alt="Ecopact Project Demo" width="600px"></a></p>
+<h2>🎥 Project Demo</h2>
+
+<p>Watch a comprehensive video demonstration of <strong>Ecopact</strong> to understand its features, functionality, and user interface.</p>
+
+<p><a href="demo.mp4" download><img src="https://example.com/video-thumbnail.png" alt="Ecopact Project Demo" width="600px"></a></p>
+
+<p>Click the image above or <a href="demo.mp4" download>here</a> to download the video.</p>
 
 <p>Click the image above or <a href="https://example.com/your-video-link">here</a> to watch the video.</p>
