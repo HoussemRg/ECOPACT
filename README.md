@@ -74,9 +74,7 @@
 <h3>Installation</h3>
 <ol>
     <li><strong>Clone the repository:</strong></li>
-    <pre><code>git clone https://github.com/HoussemRg/ECOPACT.git
-
-    </code></pre>
+    <pre><code>git clone https://github.com/HoussemRg/ECOPACT.git </code></pre>
 
    <li><strong>Set up MongoDB Database:</strong> Ensure MongoDB is running locally or use a cloud database service.</li>
 
